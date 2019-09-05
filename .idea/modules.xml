@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CMall-boot.iml" filepath="$PROJECT_DIR$/.idea/CMall-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cmall-boot-parent/cmall-boot-entity/cmall-boot-entity.iml" filepath="$PROJECT_DIR$/cmall-boot-parent/cmall-boot-entity/cmall-boot-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cmall-boot-parent/cmall-boot-mapper/cmall-boot-mapper.iml" filepath="$PROJECT_DIR$/cmall-boot-parent/cmall-boot-mapper/cmall-boot-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cmall-boot-parent/cmall-boot-parent.iml" filepath="$PROJECT_DIR$/cmall-boot-parent/cmall-boot-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cmall-boot-parent/cmall-boot-service/cmall-boot-service.iml" filepath="$PROJECT_DIR$/cmall-boot-parent/cmall-boot-service/cmall-boot-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cmall-boot-parent/cmall-boot-web/cmall-boot-web.iml" filepath="$PROJECT_DIR$/cmall-boot-parent/cmall-boot-web/cmall-boot-web.iml" />
+    </modules>
+  </component>
+</project>
